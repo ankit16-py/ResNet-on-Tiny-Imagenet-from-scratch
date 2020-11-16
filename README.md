@@ -12,6 +12,6 @@ For ResNet I noticed significant overfitting when I abruptly dropped the learnin
 # Output
 Below is the training graph of the model and the outs folder stores the best model.
 
-<img src='outs/training_plot.jpg' width=500px>
+<img src='outs/training_plot.jpg' width=650px>
 
 
